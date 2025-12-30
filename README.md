@@ -1,7 +1,7 @@
 ## 이현석 (Lee Hyeonseok)
 
 **Backend Developer**  
-📧 tjr9270@naver.com | 🔗 [github.com/hyeonseok2da](https://github.com/hyeonseok2da) | 📱 010-2805-9201
+📧 tjr9270@naver.com | 🔗 [github.com/hyeonseok2da](https://github.com/hyeonseok2da) 
 
 ---
 
