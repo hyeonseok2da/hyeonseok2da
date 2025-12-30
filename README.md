@@ -1,9 +1,17 @@
-## 이현석 (Lee Hyeonseok)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Backend%20Developer&fontSize=60&fontAlignY=40&desc=이현석%20(Lee%20Hyeonseok)&descAlignY=60)
 
-**Backend Developer**  
-📧 tjr9270@naver.com | 🔗 [github.com/hyeonseok2da](https://github.com/hyeonseok2da) 
+### 👋 안녕하세요, 성장하는 백엔드 개발자 이현석입니다
 
----
+**Backend Developer**
+
+[![Email](https://img.shields.io/badge/Email-tjr9270@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjr9270@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hyeonseok2da-181717?style=flat-square&logo=github)](https://github.com/hyeonseok2da)
+[![Tech Blog](https://img.shields.io/badge/Blog-감자코딩-20C997?style=flat-square&logo=blogger)](https://gamzah.tistory.com/)
+
+</div>
+
 
 ## 🛠 Tech Stack
 
