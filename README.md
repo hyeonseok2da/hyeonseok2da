@@ -1,6 +1,6 @@
 ## 이현석 (Lee Hyeonseok)
 
-**Backend Developer** | 3.5 years experience  
+**Backend Developer**  
 📧 tjr9270@naver.com | 🔗 [github.com/hyeonseok2da](https://github.com/hyeonseok2da) | 📱 010-2805-9201
 
 ---
@@ -47,7 +47,7 @@
 - 한국수력원자력 플랫폼 구축 (2024.03 ~ 2024.09)
 - 한국중부발전 플랫폼 구축 (2023.11 ~ 2024.02)
 - 한국수력원자력 플랫폼 구축 (2023.03 ~ 2023.11)
-
+- 부산 천마산 스마트팜시스템 구축  (2022.10 ~ 2023.01)
 ---
 
 ### Projects
