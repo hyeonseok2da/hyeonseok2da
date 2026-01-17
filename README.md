@@ -8,6 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-tjr9270@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjr9270@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hyeonseok2da-181717?style=flat-square&logo=github)](https://github.com/hyeonseok2da)
 [![Tech Blog](https://img.shields.io/badge/Blog-감자코딩-20C997?style=flat-square&logo=blogger)](https://gamzah.tistory.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=googledocs&logoColor=white)](포트폴리오_링크)
 
 </div>
 
@@ -55,6 +56,7 @@
 - 한국중부발전 플랫폼 구축 (2023.11 ~ 2024.02)
 - 한국수력원자력 플랫폼 구축 (2023.03 ~ 2023.11)
 - 부산 천마산 스마트팜시스템 구축  (2022.10 ~ 2023.01)
+
 ---
 
 ### Side Projects
@@ -77,11 +79,15 @@
 - ✅ 실사용자 피드백 기반 지속 개선
 - ✅ 기술이전 진행 중
 
+#### 🔗 Links
+- **📱 모바일 주문:** [wolfercafe.com](https://wolfercafe.com)
+- **🔧 관리자 페이지:** [wolfercafe.com/login](https://wolfercafe.com/login)  
+  └ 체험용 계정: `ID: tester@example.com` / `PW: 0000` (읽기전용)
+
 #### Tech Stack
 **Frontend:** `React 18` `Next.js 13+` `Tailwind CSS` `JavaScript ES6+`  
 **Backend:** `Supabase` `PostgreSQL` `RESTful API`  
 **State Management:** `React Hooks` `localStorage` `sessionStorage`  
 **DevOps:** `Vercel` `CI/CD`
-
 
 ---
