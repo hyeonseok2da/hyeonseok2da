@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-tjr9270@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjr9270@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hyeonseok2da-181717?style=flat-square&logo=github)](https://github.com/hyeonseok2da)
 [![Tech Blog](https://img.shields.io/badge/Blog-감자코딩-20C997?style=flat-square&logo=blogger)](https://gamzah.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2eb456c7e2d580ffbfe5ecd8afd006cf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=notion&logoColor=white)](https://excessive-lace-ae4.notion.site/2eb456c7e2d580ffbfe5ecd8afd006cf)
 
 </div>
 
@@ -86,7 +86,7 @@
 |:---|:---|
 | 📱 모바일 서비스 | [wolfercafe.com](https://wolfercafe.com) |
 | 🔧 관리자 페이지 | [wolfercafe.com/login](https://wolfercafe.com/login) |
-| 📄 포트폴리오 | [Notion](https://www.notion.so/2eb456c7e2d580ffbfe5ecd8afd006cf) |
+| 📄 포트폴리오 | [Notion](https://excessive-lace-ae4.notion.site/2eb456c7e2d580ffbfe5ecd8afd006cf) |
 
 > 🔑 체험용 계정 (읽기전용): `ID: tester@example.com` / `PW: 0000`
 
