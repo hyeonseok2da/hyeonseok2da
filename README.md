@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-tjr9270@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjr9270@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hyeonseok2da-181717?style=flat-square&logo=github)](https://github.com/hyeonseok2da)
 [![Tech Blog](https://img.shields.io/badge/Blog-감자코딩-20C997?style=flat-square&logo=blogger)](https://gamzah.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://www.notion.so/2eb456c7e2d580ffbfe5ecd8afd006cf?source=copy_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2eb456c7e2d580ffbfe5ecd8afd006cf)
 
 </div>
 
@@ -42,7 +42,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -55,7 +55,7 @@
 - 한국수력원자력 플랫폼 구축 (2024.03 ~ 2024.09)
 - 한국중부발전 플랫폼 구축 (2023.11 ~ 2024.02)
 - 한국수력원자력 플랫폼 구축 (2023.03 ~ 2023.11)
-- 부산 천마산 스마트팜시스템 구축  (2022.10 ~ 2023.01)
+- 부산 천마산 스마트팜시스템 구축 (2022.10 ~ 2023.01)
 
 ---
 
@@ -64,11 +64,13 @@
 <b>🎲 보드게임 매장 관리 통합 시스템 (2025 ~ 현재)</b>
 
 #### 프로젝트 개요
-보드게임 제작 회사를 위한 재고관리 ERP + 매장별 게임 정보 시스템
+보드게임 매장을 위한 재고관리 ERP + 모바일 주문 시스템
 
 #### 주요 기능
+- QR 코드 기반 테이블 주문 시스템
+- Telegram Bot 실시간 주문 알림
 - 재고 관리 및 실시간 동기화
-- 매장별 게임 정보 관리
+- 1,000여 종 보드게임 정보 관리
 - 사용자 즐겨찾기, 좋아요 기능
 - 커스텀 차트를 통한 데이터 시각화
 - Mobile-first 반응형 디자인
@@ -80,14 +82,17 @@
 - ✅ 기술이전 진행 중
 
 #### 🔗 Links
-- **📱 모바일 주문:** [wolfercafe.com](https://wolfercafe.com)
-- **🔧 관리자 페이지:** [wolfercafe.com/login](https://wolfercafe.com/login)  
-  └ 체험용 계정: `ID: tester@example.com` / `PW: 0000` (읽기전용)
+| 구분 | 링크 |
+|:---|:---|
+| 📱 모바일 서비스 | [wolfercafe.com](https://wolfercafe.com) |
+| 🔧 관리자 페이지 | [wolfercafe.com/login](https://wolfercafe.com/login) |
+| 📄 포트폴리오 | [Notion](https://www.notion.so/2eb456c7e2d580ffbfe5ecd8afd006cf) |
+
+> 🔑 체험용 계정 (읽기전용): `ID: tester@example.com` / `PW: 0000`
 
 #### Tech Stack
 **Frontend:** `React 18` `Next.js 13+` `Tailwind CSS` `JavaScript ES6+`  
-**Backend:** `Supabase` `PostgreSQL` `RESTful API`  
-**State Management:** `React Hooks` `localStorage` `sessionStorage`  
-**DevOps:** `Vercel` `CI/CD`
+**Backend:** `Supabase` `PostgreSQL` `RESTful API` `Telegram Bot API`  
+**DevOps:** `Cloudflare Pages` `CI/CD`
 
 ---
