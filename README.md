@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-tjr9270@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tjr9270@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hyeonseok2da-181717?style=flat-square&logo=github)](https://github.com/hyeonseok2da)
 [![Tech Blog](https://img.shields.io/badge/Blog-감자코딩-20C997?style=flat-square&logo=blogger)](https://gamzah.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=googledocs&logoColor=white)](포트폴리오_링크)
+[![Portfolio](https://img.shields.io/badge/Portfolio-이력서-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://www.notion.so/2eb456c7e2d580ffbfe5ecd8afd006cf?source=copy_link)
 
 </div>
 
