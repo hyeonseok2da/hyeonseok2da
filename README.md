@@ -21,6 +21,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / LLM
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-555555?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,6 +38,7 @@
 
 ### Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -44,29 +51,31 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 ---
 
 ### Experience
 
-**포미트 (SI)** | Backend Developer | 2022.08 ~ 현재
+**DKC (제조업 사내 IT)** | IT 운영팀 | 2026.04 ~ 현재
 
-- 한국수자원공사 플랫폼 구축 (2025.04 ~ 2025.12)
-- 한국서부발전 플랫폼 구축 (2024.10 ~ 2025.03)
-- 한국수력원자력 플랫폼 구축 (2024.03 ~ 2024.09)
-- 한국중부발전 플랫폼 구축 (2023.11 ~ 2024.02)
-- 한국수력원자력 플랫폼 구축 (2023.03 ~ 2023.11)
-- 부산 천마산 스마트팜시스템 구축 (2022.10 ~ 2023.01)
+- 사내 매뉴얼 RAG 검색봇 개발 (2026.08 ~ )
+- Oracle Forms Assistant — 레거시 ERP 화면 분석 도구 개발 (2026.09 ~ )
+- ERP 운영 · 개발 (2026.04 ~ )
 
-#### 🔗 Links
-| 구분 | 링크 |
-|:---|:---|
-| 📄 경력기술서 | [Notion](https://excessive-lace-ae4.notion.site/2ec456c7e2d580e2a630c9b381769a9d) |
+**포미트 (SI)** | Backend Developer | 2022.08 ~ 2026.04
+
+- 한국수자원공사 디지털트윈 확대구축 (2025.04 ~ 2025.12)
+- 한국서부발전 지능형 발전운영통합시스템 (2024.10 ~ 2025.03)
+- 한국수력원자력 디지털트윈 플랫폼 구축 (2024.03 ~ 2024.09)
+- 한국중부발전 전자교안 구축 용역 (2023.11 ~ 2024.02)
+- 한국수력원자력 파노라마 시스템 (2023.03 ~ 2023.11)
+- 부산 천마산 통합관제시스템 (스마트팜) (2022.09 ~ 2022.12)
 
 ---
 
 ### Side Projects
 
-<b>🎲 보드게임 매장 관리 통합 시스템 (2025.11 ~ 2025.12)</b>
+<b>🎲 보드게임 매장 관리 통합 시스템 (2025.10 ~ 2025.12)</b>
 
 #### 프로젝트 개요
 보드게임 매장을 위한 재고관리 + 모바일 주문 시스템
